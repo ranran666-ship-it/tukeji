@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1788331203995,
+  "timestamp": 1788331453297,
   "deviceCode": "20f63893-f9ce-49aa-871f-7f8e0fd1d57f",
   "chats": [
     {
@@ -115,7 +115,7 @@
     "githubUsername": "ranran666-ship-it",
     "githubRepo": "tukeji",
     "githubPath": "ephone_backup.json",
-    "githubAutoBackup": false,
+    "githubAutoBackup": true,
     "githubBackupMode": "full",
     "githubBackupInterval": 30
   },
